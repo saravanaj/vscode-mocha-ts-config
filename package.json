@@ -1,0 +1,23 @@
+{
+  "name": "vscode-mocha-ts-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^3.4.34",
+    "@types/mocha": "^2.2.39",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "typescript": "^2.1.5"
+  }
+}
